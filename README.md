@@ -1,8 +1,9 @@
 # PDF-table-extractor
-Automated a PDF table extractor because manually extracting data tables from PDF's is monotonous. 
+Created a python script to extract data tables from PDF documents.  
 ***
 
-
+### Portable Document Format (PDF) Explained
+<img width="828" alt="Screen Shot 2022-01-16 at 11 30 48 AM" src="https://user-images.githubusercontent.com/75241036/149674917-6d6c2bf5-6fcc-4f75-b267-1261705ead99.png">
 
 
 ***
