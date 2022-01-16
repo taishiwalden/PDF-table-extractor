@@ -8,9 +8,11 @@ Created a python script to extract data tables from PDF documents.
 ### Installing Required Packages
 
 In a terminal:
-'''
-pip3 install jupyter
-'''
+
+'pip3 install jupyter'
+'pip3 install camelot-py'
+'pip3 install seaborn'
+
 
 ### Links
 * [jupyter notebooks](https://jupyter.org/install)
