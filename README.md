@@ -21,6 +21,6 @@ pip3 install seaborn
 
 ***
 ### Resources
-
+* [Google's Dataset Research Tool](https://datasetsearch.research.google.com/)
 * [Python Automation Tutorial](https://www.youtube.com/watch?v=s8XjEuplx_U)
 * [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
